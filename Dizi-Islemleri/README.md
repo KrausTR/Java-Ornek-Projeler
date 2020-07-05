@@ -1,5 +1,5 @@
 # Dizi İşlemleri
-- **İşlem 1:** Metod ilegirilen dizi içeriğini rastgele sayılarla doldurmak.
+- **İşlem 1:** Metod ile girilen dizi içeriğini rastgele sayılarla doldurmak.
 - **İşlem 2:** Metod ile girilen dizi içeriğindeki armstrong sayıları bulmak.
 - **İşlem 3:** Metod ile girilen dizi içeriğindeki palindrome sayıları bulmak.
 
